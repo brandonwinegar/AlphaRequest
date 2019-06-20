@@ -1,0 +1,100 @@
+C:\Users\bwinegar\source\repos\AlphaRequest\netframework\bin\Debug\netframework.dll
+C:\Users\bwinegar\source\repos\AlphaRequest\netframework\bin\Debug\netframework.pdb
+C:\Users\bwinegar\source\repos\AlphaRequest\netframework\bin\Debug\LiveCharts.dll
+C:\Users\bwinegar\source\repos\AlphaRequest\netframework\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\bwinegar\source\repos\AlphaRequest\netframework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bwinegar\source\repos\AlphaRequest\netframework\bin\Debug\LiveCharts.pdb
+C:\Users\bwinegar\source\repos\AlphaRequest\netframework\bin\Debug\LiveCharts.xml
+C:\Users\bwinegar\source\repos\AlphaRequest\netframework\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\bwinegar\source\repos\AlphaRequest\netframework\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\bwinegar\source\repos\AlphaRequest\netframework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bwinegar\source\repos\AlphaRequest\netframework\obj\Debug\ClassLib.csproj.CoreCompileInputs.cache
+C:\Users\bwinegar\source\repos\AlphaRequest\netframework\obj\Debug\ClassLib.csproj.CopyComplete
+C:\Users\bwinegar\source\repos\AlphaRequest\netframework\obj\Debug\netframework.dll
+C:\Users\bwinegar\source\repos\AlphaRequest\netframework\obj\Debug\netframework.pdb
+C:\Users\bwinegar\source\repos\AlphaRequest\netframework\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\bwinegar\source\repos\AlphaRequest\netframework\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\bwinegar\source\repos\AlphaRequest\netframework\obj\Debug\ClassLib.csprojAssemblyReference.cache
+C:\Users\bwinegar\source\repos\AlphaRequest\netframework\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\bwinegar\source\repos\AlphaRequest\netframework\bin\Debug\System.IO.Packaging.dll
+C:\Users\bwinegar\source\repos\AlphaRequest\netframework\bin\Debug\DocumentFormat.OpenXml.xml
+G:\c#\AlphaRequest\netframework\bin\Debug\netframework.dll
+G:\c#\AlphaRequest\netframework\bin\Debug\netframework.pdb
+G:\c#\AlphaRequest\netframework\bin\Debug\DocumentFormat.OpenXml.dll
+G:\c#\AlphaRequest\netframework\bin\Debug\LiveCharts.dll
+G:\c#\AlphaRequest\netframework\bin\Debug\LiveCharts.Wpf.dll
+G:\c#\AlphaRequest\netframework\bin\Debug\Newtonsoft.Json.dll
+G:\c#\AlphaRequest\netframework\bin\Debug\System.IO.Packaging.dll
+G:\c#\AlphaRequest\netframework\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+G:\c#\AlphaRequest\netframework\bin\Debug\DocumentFormat.OpenXml.xml
+G:\c#\AlphaRequest\netframework\bin\Debug\LiveCharts.pdb
+G:\c#\AlphaRequest\netframework\bin\Debug\LiveCharts.xml
+G:\c#\AlphaRequest\netframework\bin\Debug\LiveCharts.Wpf.pdb
+G:\c#\AlphaRequest\netframework\bin\Debug\LiveCharts.Wpf.xml
+G:\c#\AlphaRequest\netframework\bin\Debug\Newtonsoft.Json.xml
+G:\c#\AlphaRequest\netframework\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+G:\c#\AlphaRequest\netframework\obj\Debug\ClassLib.csprojAssemblyReference.cache
+G:\c#\AlphaRequest\netframework\obj\Debug\ClassLib.csproj.CoreCompileInputs.cache
+G:\c#\AlphaRequest\netframework\obj\Debug\ClassLib.csproj.CopyComplete
+G:\c#\AlphaRequest\netframework\obj\Debug\netframework.dll
+G:\c#\AlphaRequest\netframework\obj\Debug\netframework.pdb
+D:\c#\AlphaRequest\netframework\bin\Debug\netframework.dll
+D:\c#\AlphaRequest\netframework\bin\Debug\netframework.pdb
+D:\c#\AlphaRequest\netframework\bin\Debug\DocumentFormat.OpenXml.dll
+D:\c#\AlphaRequest\netframework\bin\Debug\LiveCharts.dll
+D:\c#\AlphaRequest\netframework\bin\Debug\LiveCharts.Wpf.dll
+D:\c#\AlphaRequest\netframework\bin\Debug\Newtonsoft.Json.dll
+D:\c#\AlphaRequest\netframework\bin\Debug\System.IO.Packaging.dll
+D:\c#\AlphaRequest\netframework\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\c#\AlphaRequest\netframework\bin\Debug\DocumentFormat.OpenXml.xml
+D:\c#\AlphaRequest\netframework\bin\Debug\LiveCharts.pdb
+D:\c#\AlphaRequest\netframework\bin\Debug\LiveCharts.xml
+D:\c#\AlphaRequest\netframework\bin\Debug\LiveCharts.Wpf.pdb
+D:\c#\AlphaRequest\netframework\bin\Debug\LiveCharts.Wpf.xml
+D:\c#\AlphaRequest\netframework\bin\Debug\Newtonsoft.Json.xml
+D:\c#\AlphaRequest\netframework\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+D:\c#\AlphaRequest\netframework\obj\Debug\ClassLib.csprojAssemblyReference.cache
+D:\c#\AlphaRequest\netframework\obj\Debug\ClassLib.csproj.CoreCompileInputs.cache
+D:\c#\AlphaRequest\netframework\obj\Debug\ClassLib.csproj.CopyComplete
+D:\c#\AlphaRequest\netframework\obj\Debug\netframework.dll
+D:\c#\AlphaRequest\netframework\obj\Debug\netframework.pdb
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\netframework\bin\Debug\netframework.dll
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\netframework\bin\Debug\netframework.pdb
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\netframework\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\netframework\bin\Debug\LiveCharts.dll
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\netframework\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\netframework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\netframework\bin\Debug\System.IO.Packaging.dll
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\netframework\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\netframework\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\netframework\bin\Debug\LiveCharts.pdb
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\netframework\bin\Debug\LiveCharts.xml
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\netframework\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\netframework\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\netframework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\netframework\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\netframework\obj\Debug\ClassLib.csprojAssemblyReference.cache
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\netframework\obj\Debug\ClassLib.csproj.CoreCompileInputs.cache
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\netframework\obj\Debug\ClassLib.csproj.CopyComplete
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\netframework\obj\Debug\netframework.dll
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\netframework\obj\Debug\netframework.pdb
+C:\Users\bwine\source\repos\AlphaRequest\netframework\bin\Debug\netframework.dll
+C:\Users\bwine\source\repos\AlphaRequest\netframework\bin\Debug\netframework.pdb
+C:\Users\bwine\source\repos\AlphaRequest\netframework\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\bwine\source\repos\AlphaRequest\netframework\bin\Debug\LiveCharts.dll
+C:\Users\bwine\source\repos\AlphaRequest\netframework\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\bwine\source\repos\AlphaRequest\netframework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bwine\source\repos\AlphaRequest\netframework\bin\Debug\System.IO.Packaging.dll
+C:\Users\bwine\source\repos\AlphaRequest\netframework\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\bwine\source\repos\AlphaRequest\netframework\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\bwine\source\repos\AlphaRequest\netframework\bin\Debug\LiveCharts.pdb
+C:\Users\bwine\source\repos\AlphaRequest\netframework\bin\Debug\LiveCharts.xml
+C:\Users\bwine\source\repos\AlphaRequest\netframework\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\bwine\source\repos\AlphaRequest\netframework\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\bwine\source\repos\AlphaRequest\netframework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bwine\source\repos\AlphaRequest\netframework\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\bwine\source\repos\AlphaRequest\netframework\obj\Debug\ClassLib.csprojAssemblyReference.cache
+C:\Users\bwine\source\repos\AlphaRequest\netframework\obj\Debug\ClassLib.csproj.CoreCompileInputs.cache
+C:\Users\bwine\source\repos\AlphaRequest\netframework\obj\Debug\ClassLib.csproj.CopyComplete
+C:\Users\bwine\source\repos\AlphaRequest\netframework\obj\Debug\netframework.dll
+C:\Users\bwine\source\repos\AlphaRequest\netframework\obj\Debug\netframework.pdb

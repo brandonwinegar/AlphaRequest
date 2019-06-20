@@ -1,0 +1,140 @@
+C:\Users\bwinegar\source\repos\AlphaRequest\AlphaRequest\bin\Debug\AlphaRequest.exe.config
+C:\Users\bwinegar\source\repos\AlphaRequest\AlphaRequest\bin\Debug\AlphaRequest.exe
+C:\Users\bwinegar\source\repos\AlphaRequest\AlphaRequest\bin\Debug\AlphaRequest.pdb
+C:\Users\bwinegar\source\repos\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.csprojAssemblyReference.cache
+C:\Users\bwinegar\source\repos\AlphaRequest\AlphaRequest\obj\Debug\MainWindow.g.cs
+C:\Users\bwinegar\source\repos\AlphaRequest\AlphaRequest\obj\Debug\App.g.cs
+C:\Users\bwinegar\source\repos\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest_MarkupCompile.cache
+C:\Users\bwinegar\source\repos\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest_MarkupCompile.lref
+C:\Users\bwinegar\source\repos\AlphaRequest\AlphaRequest\obj\Debug\MainWindow.baml
+C:\Users\bwinegar\source\repos\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.g.resources
+C:\Users\bwinegar\source\repos\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.Properties.Resources.resources
+C:\Users\bwinegar\source\repos\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.csproj.GenerateResource.cache
+C:\Users\bwinegar\source\repos\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.csproj.CoreCompileInputs.cache
+C:\Users\bwinegar\source\repos\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.csproj.CopyComplete
+C:\Users\bwinegar\source\repos\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.exe
+C:\Users\bwinegar\source\repos\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.pdb
+C:\Users\bwinegar\source\repos\AlphaRequest\AlphaRequest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bwinegar\source\repos\AlphaRequest\AlphaRequest\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\bwinegar\source\repos\AlphaRequest\AlphaRequest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bwinegar\source\repos\AlphaRequest\AlphaRequest\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\bwine\source\repos\AlphaRequest\AlphaRequest\bin\Debug\AlphaRequest.exe.config
+C:\Users\bwine\source\repos\AlphaRequest\AlphaRequest\bin\Debug\AlphaRequest.exe
+C:\Users\bwine\source\repos\AlphaRequest\AlphaRequest\bin\Debug\AlphaRequest.pdb
+C:\Users\bwine\source\repos\AlphaRequest\AlphaRequest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bwine\source\repos\AlphaRequest\AlphaRequest\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\bwine\source\repos\AlphaRequest\AlphaRequest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bwine\source\repos\AlphaRequest\AlphaRequest\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\bwine\source\repos\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.csprojAssemblyReference.cache
+C:\Users\bwine\source\repos\AlphaRequest\AlphaRequest\obj\Debug\MainWindow.g.cs
+C:\Users\bwine\source\repos\AlphaRequest\AlphaRequest\obj\Debug\App.g.cs
+C:\Users\bwine\source\repos\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest_MarkupCompile.cache
+C:\Users\bwine\source\repos\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest_MarkupCompile.lref
+C:\Users\bwine\source\repos\AlphaRequest\AlphaRequest\obj\Debug\MainWindow.baml
+C:\Users\bwine\source\repos\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.g.resources
+C:\Users\bwine\source\repos\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.Properties.Resources.resources
+C:\Users\bwine\source\repos\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.csproj.GenerateResource.cache
+C:\Users\bwine\source\repos\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.csproj.CoreCompileInputs.cache
+C:\Users\bwine\source\repos\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.csproj.CopyComplete
+C:\Users\bwine\source\repos\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.exe
+C:\Users\bwine\source\repos\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.pdb
+C:\Users\bwinegar\source\repos\AlphaRequest\AlphaRequest\bin\Debug\LiveCharts.dll
+C:\Users\bwinegar\source\repos\AlphaRequest\AlphaRequest\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\bwinegar\source\repos\AlphaRequest\AlphaRequest\bin\Debug\LiveCharts.pdb
+C:\Users\bwinegar\source\repos\AlphaRequest\AlphaRequest\bin\Debug\LiveCharts.xml
+C:\Users\bwinegar\source\repos\AlphaRequest\AlphaRequest\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\bwinegar\source\repos\AlphaRequest\AlphaRequest\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\bwinegar\source\repos\AlphaRequest\AlphaRequest\bin\Debug\netframework.dll
+C:\Users\bwinegar\source\repos\AlphaRequest\AlphaRequest\bin\Debug\netframework.pdb
+G:\c#\AlphaRequest\AlphaRequest\bin\Debug\AlphaRequest.exe.config
+G:\c#\AlphaRequest\AlphaRequest\bin\Debug\AlphaRequest.exe
+G:\c#\AlphaRequest\AlphaRequest\bin\Debug\AlphaRequest.pdb
+G:\c#\AlphaRequest\AlphaRequest\bin\Debug\LiveCharts.dll
+G:\c#\AlphaRequest\AlphaRequest\bin\Debug\LiveCharts.Wpf.dll
+G:\c#\AlphaRequest\AlphaRequest\bin\Debug\netframework.dll
+G:\c#\AlphaRequest\AlphaRequest\bin\Debug\Newtonsoft.Json.dll
+G:\c#\AlphaRequest\AlphaRequest\bin\Debug\System.Net.Http.Formatting.dll
+G:\c#\AlphaRequest\AlphaRequest\bin\Debug\netframework.pdb
+G:\c#\AlphaRequest\AlphaRequest\bin\Debug\LiveCharts.pdb
+G:\c#\AlphaRequest\AlphaRequest\bin\Debug\LiveCharts.xml
+G:\c#\AlphaRequest\AlphaRequest\bin\Debug\LiveCharts.Wpf.pdb
+G:\c#\AlphaRequest\AlphaRequest\bin\Debug\LiveCharts.Wpf.xml
+G:\c#\AlphaRequest\AlphaRequest\bin\Debug\Newtonsoft.Json.xml
+G:\c#\AlphaRequest\AlphaRequest\bin\Debug\System.Net.Http.Formatting.xml
+G:\c#\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.csprojAssemblyReference.cache
+G:\c#\AlphaRequest\AlphaRequest\obj\Debug\MainWindow.g.cs
+G:\c#\AlphaRequest\AlphaRequest\obj\Debug\App.g.cs
+G:\c#\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest_MarkupCompile.cache
+G:\c#\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest_MarkupCompile.lref
+G:\c#\AlphaRequest\AlphaRequest\obj\Debug\MainWindow.baml
+G:\c#\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.g.resources
+G:\c#\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.Properties.Resources.resources
+G:\c#\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.csproj.GenerateResource.cache
+G:\c#\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.csproj.CoreCompileInputs.cache
+G:\c#\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.csproj.CopyComplete
+G:\c#\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.exe
+G:\c#\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.pdb
+D:\c#\AlphaRequest\AlphaRequest\bin\Debug\AlphaRequest.exe.config
+D:\c#\AlphaRequest\AlphaRequest\bin\Debug\AlphaRequest.exe
+D:\c#\AlphaRequest\AlphaRequest\bin\Debug\AlphaRequest.pdb
+D:\c#\AlphaRequest\AlphaRequest\bin\Debug\LiveCharts.dll
+D:\c#\AlphaRequest\AlphaRequest\bin\Debug\LiveCharts.Wpf.dll
+D:\c#\AlphaRequest\AlphaRequest\bin\Debug\netframework.dll
+D:\c#\AlphaRequest\AlphaRequest\bin\Debug\Newtonsoft.Json.dll
+D:\c#\AlphaRequest\AlphaRequest\bin\Debug\System.Net.Http.Formatting.dll
+D:\c#\AlphaRequest\AlphaRequest\bin\Debug\netframework.pdb
+D:\c#\AlphaRequest\AlphaRequest\bin\Debug\LiveCharts.pdb
+D:\c#\AlphaRequest\AlphaRequest\bin\Debug\LiveCharts.xml
+D:\c#\AlphaRequest\AlphaRequest\bin\Debug\LiveCharts.Wpf.pdb
+D:\c#\AlphaRequest\AlphaRequest\bin\Debug\LiveCharts.Wpf.xml
+D:\c#\AlphaRequest\AlphaRequest\bin\Debug\Newtonsoft.Json.xml
+D:\c#\AlphaRequest\AlphaRequest\bin\Debug\System.Net.Http.Formatting.xml
+D:\c#\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.csprojAssemblyReference.cache
+D:\c#\AlphaRequest\AlphaRequest\obj\Debug\MainWindow.g.cs
+D:\c#\AlphaRequest\AlphaRequest\obj\Debug\App.g.cs
+D:\c#\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest_MarkupCompile.cache
+D:\c#\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest_MarkupCompile.lref
+D:\c#\AlphaRequest\AlphaRequest\obj\Debug\MainWindow.baml
+D:\c#\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.g.resources
+D:\c#\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.Properties.Resources.resources
+D:\c#\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.csproj.GenerateResource.cache
+D:\c#\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.csproj.CoreCompileInputs.cache
+D:\c#\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.csproj.CopyComplete
+D:\c#\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.exe
+D:\c#\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.pdb
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\AlphaRequest\bin\Debug\AlphaRequest.exe.config
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\AlphaRequest\bin\Debug\AlphaRequest.exe
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\AlphaRequest\bin\Debug\AlphaRequest.pdb
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\AlphaRequest\bin\Debug\LiveCharts.dll
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\AlphaRequest\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\AlphaRequest\bin\Debug\netframework.dll
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\AlphaRequest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\AlphaRequest\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\AlphaRequest\bin\Debug\netframework.pdb
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\AlphaRequest\bin\Debug\LiveCharts.pdb
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\AlphaRequest\bin\Debug\LiveCharts.xml
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\AlphaRequest\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\AlphaRequest\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\AlphaRequest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\AlphaRequest\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.csprojAssemblyReference.cache
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\AlphaRequest\obj\Debug\MainWindow.g.cs
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\AlphaRequest\obj\Debug\App.g.cs
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest_MarkupCompile.cache
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest_MarkupCompile.lref
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\AlphaRequest\obj\Debug\MainWindow.baml
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.g.resources
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.Properties.Resources.resources
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.csproj.GenerateResource.cache
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.csproj.CoreCompileInputs.cache
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.csproj.CopyComplete
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.exe
+C:\Users\bwinegar\Documents\Work Projects\AlphaRequest\AlphaRequest\obj\Debug\AlphaRequest.pdb
+C:\Users\bwine\source\repos\AlphaRequest\AlphaRequest\bin\Debug\LiveCharts.dll
+C:\Users\bwine\source\repos\AlphaRequest\AlphaRequest\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\bwine\source\repos\AlphaRequest\AlphaRequest\bin\Debug\netframework.dll
+C:\Users\bwine\source\repos\AlphaRequest\AlphaRequest\bin\Debug\netframework.pdb
+C:\Users\bwine\source\repos\AlphaRequest\AlphaRequest\bin\Debug\LiveCharts.pdb
+C:\Users\bwine\source\repos\AlphaRequest\AlphaRequest\bin\Debug\LiveCharts.xml
+C:\Users\bwine\source\repos\AlphaRequest\AlphaRequest\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\bwine\source\repos\AlphaRequest\AlphaRequest\bin\Debug\LiveCharts.Wpf.xml

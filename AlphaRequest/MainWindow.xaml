@@ -1,0 +1,109 @@
+﻿<Window
+        xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClassLib"
+        xmlns:Wpf="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf" 
+        x:Class="ClassLib.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="597.5" Width="717.819" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                <GradientStop Color="#FF2F3147"/>
+                <GradientStop Color="#FF141830" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="10*"/>
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="8*"/>
+            <RowDefinition Height="32*"/>
+            <RowDefinition Height="3*"/>
+        </Grid.RowDefinitions>
+        <Label Grid.Row ="0" Name="SymbolDisplay" Content="_____________" Background="#00000000" BorderBrush="#00000000" Foreground="#FF15D29A" FontSize="60" FontWeight="Bold" HorizontalAlignment="Center"/>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="3*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Row ="0" Content="Symbol:" Foreground="#FF15D29A" FontWeight="Bold" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="22"/>
+            <TextBox Grid.Column="1" Name ="SymbolEntry" Text="" Background="LightGray" BorderBrush="Black" FontSize="22" FontWeight="Bold" Foreground="#FF252935"/>
+            <Button Grid.Column="2" x:Name="RequestButton" Content="Request" Background="#00000000" BorderBrush="#00000000" Foreground="#FF15D29A" FontWeight="Bold" Click="RequestButton_Click" FontSize="22"/>
+        </Grid>
+        <Grid Grid.Row="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button Grid.Column="0" x:Name="HourlySeries"   Content="Hourly"    Background="#00000000" BorderBrush="#3FFFFFFF" Foreground="#FF15D29A" FontSize="22" FontWeight="Bold" />
+            <Button Grid.Column="1" x:Name="DailySeries"    Content="Daily"     Background="#00000000" BorderBrush="#3FFFFFFF" Foreground="#FF15D29A" FontSize="22" FontWeight="Bold"/>
+            <Button Grid.Column="2" x:Name="WeeklySeries"   Content="Weekly"    Background="#00000000" BorderBrush="#3FFFFFFF" Foreground="#FF15D29A" FontSize="22" FontWeight="Bold"/>
+            <Button Grid.Column="3" x:Name="MonthlySeries"  Content="Monthly"   Background="#00000000" BorderBrush="#3FFFFFFF" Foreground="#FF15D29A" FontSize="22" FontWeight="Bold"/>
+        </Grid>
+        <Grid Grid.Row="4">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="38*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Column ="1" Name = "DetailsDisplay" Content = "_____________" Background="#00000000" BorderBrush="#00000000" Foreground="#FF15D29A" FontSize="40" FontWeight="Bold" HorizontalAlignment="Center"/>
+        </Grid>
+        <Grid Grid.Row="5">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="38*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="1">
+                <Grid.ColumnDefinitions >
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="12*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="9*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Canvas Grid.Column="1" Name="ChartCanvas" Background="White"/>
+                <Grid Grid.Column="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                <Grid/>
+                    <Label Grid.Column="0" Grid.Row ="0" Name ="YAxis7" Content="_" Foreground="#FF15D29A" VerticalAlignment="Top"/>
+                    <Label Grid.Column="0" Grid.Row ="2" Name ="YAxis5" Content="_" Foreground="#FF15D29A" VerticalAlignment="Top"/>
+                    <Label Grid.Column="0" Grid.Row ="1" Name ="YAxis6" Content="_" Foreground="#FF15D29A" VerticalAlignment="Top"/>
+                    <Label Grid.Column="0" Grid.Row ="3" Name ="YAxis4" Content="_" Foreground="#FF15D29A" VerticalAlignment="Top"/>
+                    <Label Grid.Column="0" Grid.Row ="4" Name ="YAxis3" Content="_" Foreground="#FF15D29A" VerticalAlignment="Top"/>
+                    <Label Grid.Column="0" Grid.Row ="5" Name ="YAxis2" Content="_" Foreground="#FF15D29A" VerticalAlignment="Top"/>
+                    <Label Grid.Column="0" Grid.Row ="6" Name ="YAxis1" Content="_" Foreground="#FF15D29A" VerticalAlignment="Top"/>
+                    <Label Grid.Column="0" Grid.Row ="7" Name ="YAxis0" Content="_" Foreground="#FF15D29A" VerticalAlignment="Top"/>
+                </Grid>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="6" RenderTransformOrigin="0.5,0.5">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <CheckBox Grid.Column="0" x:Name="EnableCaching" Content="Enable Caching" Foreground="White" FontSize="16" VerticalAlignment="Center" HorizontalAlignment="Left"/>
+            <CheckBox Grid.Column="1" x:Name="RememberLast" Content="Remember Last" Foreground="White" FontSize="16" VerticalAlignment="Center" HorizontalAlignment="Left"/>
+            <Button Grid.Column="2" x:Name="ClearGraph" Content="Clear" Click="ClearGraph_Click" FontSize="16" Foreground="White" Background="#00000000" BorderBrush="#00000000"/>
+        </Grid>
+    </Grid>
+</Window>
